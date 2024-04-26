@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+    background: red;
+}
+.cabecalho{
+    background-color:crimson;
+    padding: 15px;
+   
+}
+.botcabecalho{
+    background-color: orangered;
+    color:white;
+    border-radius:10px;
+    padding: 10px;
+    margin: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.botcabecalho:hover{
+    color: darkred;
+}
+
+
+.r4 {
+    max-width: 1000px; 
+    height: 190px; 
+    margin: 0px; 
+    width: 353px;
+}
+
+.r8 {
+    max-width: 1000px; 
+    height: 190px; 
+    margin: 0px; 
+    width: 353px;
+}
+
+
+div p {
+    color: #3f899f;
+    font-weight: bold;
+}
+
+div ol {
+    color:darkblue;
+    font-weight: bold;
+}
+
+div h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+div h2 {
+    text-align: center;
+    color: darkblue;
+}
+
+footer {
+    background-color: red;
+    margin-bottom: 0%;
+}
+
+.rede {
+    text-align: center;
+    background-color:crimson;
+}
+
+.insta {
+    width: 30px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+
+.face {
+    margin-top: 5px;
+    width: 30px;
+}
+
+.endereco {
+    color: white;
+    margin-bottom: 7px;
+}
+
+.h2senai {
+    color: white;
+}
